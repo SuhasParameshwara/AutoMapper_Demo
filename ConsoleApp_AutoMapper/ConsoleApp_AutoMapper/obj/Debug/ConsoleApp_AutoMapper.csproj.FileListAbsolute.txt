@@ -1,0 +1,12 @@
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\ConsoleApp_AutoMapper.exe.config
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\ConsoleApp_AutoMapper.exe
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\ConsoleApp_AutoMapper.pdb
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\AutoMapper.dll
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\AutoMapper.pdb
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\AutoMapper.xml
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\bin\Debug\Newtonsoft.Json.xml
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\obj\Debug\ConsoleApp_AutoMapper.csprojAssemblyReference.cache
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\obj\Debug\ConsoleApp_AutoMapper.csproj.CopyComplete
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\obj\Debug\ConsoleApp_AutoMapper.exe
+C:\Project\Sample Project\AutoMapper_Repo\ConsoleApp_AutoMapper\ConsoleApp_AutoMapper\obj\Debug\ConsoleApp_AutoMapper.pdb
